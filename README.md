@@ -19,7 +19,7 @@
 
 - Windows `electron-ssr-setup-x.x.x.exe`
 - Mac `electron-ssr-x.x.x.dmg`
-- Linux 优先建议下载`electron-ssr-x.x.x.AppImage`，直接双击运行。如果无法使用或者想直接下载自己系统专用包请看下一条
+- Linux 优先建议下载`electron-ssr-x.x.x.AppImage`，直接双击运行。如果无法使用或者想直接下载自己系统专用包请看下一条。。**最好还是使用专用包**
 - Arch或者基于Arch的系统，下载`electron-ssr-x.x.x.pacman`
 - RedHat系列的系统，下载`electron-ssr-x.x.x.rpm`
 - Debian系列的系统，下载`electron-ssr-x.x.x.deb`
